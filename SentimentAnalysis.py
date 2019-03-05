@@ -91,4 +91,4 @@ naiveBayesSentimentCalculator("What an awesome movie")
 naiveBayesSentimentCalculator("What a terrible movie")
 
 
-#runDiagnostics(getTestReviewSentiments(naiveBayesSentimentCalculator))
+runDiagnostics(getTestReviewSentiments(naiveBayesSentimentCalculator))
